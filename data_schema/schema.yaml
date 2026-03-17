@@ -1,0 +1,16 @@
+columns:
+  - Timestamp: object
+  - Temperature (°C): float64
+  - Humidity (%): float64
+  - Wind Speed (m/s): float64
+  - Rainfall (mm): float64
+  - Solar Irradiance (W/m²): float64
+  - GDP (LKR): float64
+  - Per Capita Energy Use (kWh): float64
+  - Electricity Price (LKR/kWh): float64
+  - Day of Week: float64
+  - Hour of Day: float64
+  - Month: float64
+  - Season: object
+  - Public Event: float64
+  - Load Demand (kW): float64
